@@ -10,6 +10,7 @@ Game* Game::s_pInstance = 0;
 
 bool Game::setup()
 {
+    //git to pc 테스트
  bool result;
 
  result = init("Nature of Code", 0, 0, WIDTH, HEIGHT, false);
